@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here --> 
-    <img src="./assets/img/Ian.jpg" alt="Ian" width="130" height="100">
+    <img src="./assets/img/Ian.jpg" alt="Ian" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hotdog</h3>
+  <h3 align="center">Ian Relox</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  The place where hotdogs and other street foods can exist!
+  FEU Institute of Technology BSITWMA
 </div>
 
 <br />
