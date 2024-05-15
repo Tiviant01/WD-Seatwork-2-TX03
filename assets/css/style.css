@@ -32,6 +32,12 @@ p{
     color: hsl(86, 83%, 21%);
 }
 
+a{
+    text-decoration: none;
+    color: #BCEF78;
+}
+
+
 header {
     display: flex;
     justify-content: space-between;
@@ -52,6 +58,7 @@ header button {
     transition: 0.2s ease-in-out;
     height: 6vh;
     border-bottom: 2px transparent;
+    text-decoration: none;
 }
 
 header button:hover {
