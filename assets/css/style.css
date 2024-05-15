@@ -82,7 +82,7 @@ section.hero .left{
 
     & h1{
         font-size: 5rem;
-        &span;  
+    
     }
 
     & h2{
@@ -95,10 +95,11 @@ section.hero .left{
 
 }
 
-section.hero .right img{
+ section.hero .right img{
+    display: flex;
+    padding-top: 250px;
     width: 100%;
     height: 50%;
-    object-fit: cover;
-    object-position: top;
-   
+    justify-content: center;
+    align-items: center;
 }
