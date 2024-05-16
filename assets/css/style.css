@@ -50,6 +50,10 @@ header {
     background-color:#65a512;
 }
 
+header img{
+    padding: 10px;
+}
+
 header button {
     padding: 0.5rem 2rem;
     border: none;
@@ -73,17 +77,19 @@ header button:active {
 
 section.hero {
     display: flex;
+    justify-content: center;
     margin: 0.3rem 5vw 0;
     height: 100vh;
     padding-top: 1vh;
 }
 
 section.hero .left {
-    width: 130vh;
+    width: 110vh;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    margin-right: 50px;
 }
 
 section.hero .left h4 {
@@ -103,7 +109,7 @@ section.hero .left p {
 }
 
 section.hero .right {
-    width: 80vh;
+    width: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
