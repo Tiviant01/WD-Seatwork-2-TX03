@@ -73,8 +73,10 @@ header button:active {
 }
 
 .flexbox-container{
-    height: 650px;
+    height: 700px;
+    width:  auto;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
@@ -83,15 +85,16 @@ header button:active {
 .flexbox-items{
     justify-content: center;
     align-items: center;
-    width: 300px;
-    margin: 20px;
-
-
 }
+
+.flexbox-items h2{
+    font-size: 70px;
+}
+
 .flexbox-items img{
-    padding-right: 200px;
-    justify-content: center;
+    
+    width: 350px;
+    justify-content: flex-start;
     align-items: center;
-    width: 300px;
-    margin: 10px;
+    
 }
