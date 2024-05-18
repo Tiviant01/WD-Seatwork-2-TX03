@@ -20,21 +20,23 @@ body{
 h1{
     font-family: Kewl;
     font-size: 25px;
-    color: #BCEF78;
+    color: white;
 }
 
 h2,h3,h4{
+    font-family: Kewl;
     color: hsl(86, 83%, 21%);
 }
 
 p{
+    font-family: Kewl;
     font-weight: 200;
     color: hsl(86, 83%, 21%);
 }
 
 a{
     text-decoration: none;
-    color: #BCEF78;
+    color: white;
 }
 
 
@@ -48,6 +50,7 @@ header {
     top: 0;
     left: 0;
     background-color:#65a512;
+    position: fixed;
 }
 
 header img{
