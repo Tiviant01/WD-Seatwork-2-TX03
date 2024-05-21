@@ -9,11 +9,11 @@
     <img src="./assets/img/Ian.jpg" alt="Ian" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Ian Relox</h3>
+  <h3 align="center">Resume</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  FEU Institute of Technology BSITWMA
+  Ian Relox - FEU Institute of Technology BSITWMA
 </div>
 
 <br />
@@ -57,20 +57,18 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+What is this website?
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
+ This website serves as my resume website. Here, you will get learn about this website's developer,yours truly, Ian Relox. Information such as my name, the schools I've attended, and other things I do and love in life.
+
+
 - What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+  Multipage Website for organization
 
 ### Technology
 <!-- TODO: List of Technology Used -->

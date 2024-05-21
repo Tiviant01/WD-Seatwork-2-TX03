@@ -78,7 +78,7 @@ header button:active {
 }
 
 
-section.hero {
+section.home {
     display: flex;
     justify-content: center;
     margin: 0.3rem 5vw 0;
@@ -86,7 +86,7 @@ section.hero {
     padding-top: 1vh;
 }
 
-section.hero .left {
+section.home .left {
     width: 110vh;
     display: flex;
     flex-direction: column;
@@ -95,23 +95,23 @@ section.hero .left {
     margin-right: 50px;
 }
 
-section.hero .left h4 {
+section.home .left h4 {
     font-size: 1.5rem;
 }
 
-section.hero .left h2 {
+section.home .left h2 {
     font-size: 5rem;
 }
 
-section.hero .left h3 {
+section.home .left h3 {
     font-size: 3.5rem;
 }
 
-section.hero .left p {
+section.home .left p {
     font-size: 1.5rem;
 }
 
-section.hero .right {
+section.home .right {
     width: 60vh;
     display: flex;
     justify-content: center;
@@ -119,7 +119,7 @@ section.hero .right {
     padding-top: 50px;
 }
 
-section.hero .right img {
+section.home .right img {
     width: 110%;
     height: 75%;
     border-radius: 20px;

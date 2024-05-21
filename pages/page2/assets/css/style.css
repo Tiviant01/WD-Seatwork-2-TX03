@@ -26,14 +26,12 @@ h1{
 h2{
     color: hsl(86, 83%, 21%);;
     font-size: 75px;
-    margin-top: 50px;
     font-family: Kewl;
 }
 
 h3{
     color: hsl(86, 83%, 21%);;
     font-size: 40px;
-    margin-bottom: 515px;
     font-family: Kewl;
     
 }
@@ -45,12 +43,7 @@ h4{
     font-size: 50px;
 }
 
-h5{
-    color: hsl(86, 83%, 21%);;
-    font-size: 40px;
-    font-family: Kewl;
-    
-}
+
 
 a{
     text-decoration: none;
@@ -91,75 +84,61 @@ header button:active {
     transition: 0.1s ease-in-out;
 }
 
-.long-container{
-    display:flex;
-    flex-direction: row;
+
+section.educ{
+    display: flex;
     justify-content: center;
-    align-items: center;
-    margin-top: 100px;
-    background-color: #65a512;
+    margin: 0.3rem 5vw 0;
+    height: 300vh;
+    padding-top: 1vh;
 }
 
-.flexbox-container{
-    height: 750px;
-    width:  100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-top: 100px;
+.box {
+    height: 40vh;
+    width: 90vh;
 }
 
-.flexbox-container .left{
-    height: 350%;
-    width:  50%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+
+#box1{
+    padding-top: 8vh;
     align-items: center;
-    margin-top: 100px;
-    
 }
 
-.flexbox-container .right{
-    height: 350%;
-    width:  50%;
+#box2{
+    padding-top: 8vh;
+    align-items: center;
+}
+
+#box3{
+    align-items: center;
+}
+
+
+section.educ .left{
+    width: 80vh;
     display: flex;
     flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: flex-start;
-    margin-top: 100px;
-}
-
-.flexbox-items{
-    justify-content: center;
-    align-items: center;
-}
-
-
-.flexbox-items img{
-    width: 250px;
-    justify-content: center;
-    align-items: center;
-    padding-left: 65px;
-    margin-bottom: 500px;
-}
-
-.flexbox-items2 img{
+    justify-content: space-around;
     
-    width: 500px;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 500px;
-    
+
 }
 
-.flexbox-items3 img{
-    width: 240px;
-    justify-content: center;
-    align-items: center;
-    padding-left: 50px;
-    
+section.educ .left img{
+    padding-left: 13vh;
+    padding-top: 20vh;
+    padding-bottom: 10vh;
+    display: flex;
+    width: 50vh;
+    height: auto;
+
 }
+
+section.educ .right{
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+
