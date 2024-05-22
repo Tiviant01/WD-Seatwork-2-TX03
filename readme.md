@@ -62,13 +62,11 @@ What is this website?
  This website serves as my resume website. Here, you will get learn about this website's developer,yours truly, Ian Relox. Information such as my name, the schools I've attended, and other things I do and love in life.
 
 
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-  Multipage Website for organization
+  Multipage Website for organization of details.
 
 ### Technology
 <!-- TODO: List of Technology Used -->

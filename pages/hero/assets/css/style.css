@@ -76,4 +76,9 @@ section.hero {
     margin: 0.3rem 5vw 0;
     height: 100vh;
     padding-top: 1vh;
+}   
+
+section.hero img{
+    display: flex;
+    justify-content: center;
 }
