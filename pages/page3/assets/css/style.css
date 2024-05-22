@@ -90,7 +90,7 @@ section.hob .left{
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
-    margin-left: 80px;
+    margin-left: 70px;
 
 }
 
@@ -121,19 +121,19 @@ section.hob .right img{
     width: 90vh;
 }
 #box1{
-    margin-top: 12vh;
+    padding-top: 18vh;
     align-items: center;
 }
 
 #box2{
-    margin-top: 4vh;
     align-items: center;
+
 }
 #box3{
-    margin-top: 45vh;
+    padding-top: 10vh;
     align-items: center;
 }
 #box4{
-    margin-top: 45vh;
+
     align-items: center;
 }
