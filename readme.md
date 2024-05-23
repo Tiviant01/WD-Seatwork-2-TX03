@@ -108,3 +108,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Bebas Neue|Font|https://fonts.google.com/specimen/Bebas+Neue|
+|-|-|-|

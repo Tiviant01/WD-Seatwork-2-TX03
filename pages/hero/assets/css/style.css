@@ -23,13 +23,22 @@ h1{
     color: white;
 }
 
-h2,h3,h4{
+h2{
+    margin-top: 10px;
+    font-family: Kewl;
+    font-size: 90px;
     color: hsl(86, 83%, 21%);
 }
 
 p{
-    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Kewl;
+    width: 90vh;
+    font-size: 30px;
     color: hsl(86, 83%, 21%);
+    
 }
 
 a{
@@ -73,12 +82,21 @@ header button:active {
 
 section.hero {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     margin: 0.3rem 5vw 0;
-    height: 100vh;
+    height: 70vh;
     padding-top: 1vh;
 }   
 
 section.hero img{
     display: flex;
     justify-content: center;
+    width: 75vh;
+    height: auto;
+    border-radius: 20px;
+    margin-top: 170px;
+    
 }

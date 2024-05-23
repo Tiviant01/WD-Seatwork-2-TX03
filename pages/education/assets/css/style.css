@@ -88,9 +88,8 @@ header button:active {
 section.educ{
     display: flex;
     justify-content: center;
-    margin: 0.3rem 5vw 0;
-    height: 300vh;
-    padding-top: 1vh;
+    height: 290vh;
+    
 }
 
 .box {
@@ -125,7 +124,7 @@ section.educ .left{
 
 section.educ .left img{
     padding-left: 13vh;
-    padding-top: 20vh;
+    padding-top: 10vh;
     padding-bottom: 10vh;
     display: flex;
     width: 50vh;
