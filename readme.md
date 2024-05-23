@@ -109,4 +109,4 @@ WD-ProjectName
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 |Bebas Neue|Font|https://fonts.google.com/specimen/Bebas+Neue|
-|-|-|-|
+|How TO - Fixed Menu|Keep the nav bar on the top of the screen even after scrolling|https://www.w3schools.com/howto/howto_css_fixed_menu.asp|
