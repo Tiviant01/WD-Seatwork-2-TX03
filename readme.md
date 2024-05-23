@@ -107,7 +107,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-
 |Bebas Neue|Font|https://fonts.google.com/specimen/Bebas+Neue|
 |How TO - Fixed Menu|Keep the nav bar on the top of the screen even after scrolling|https://www.w3schools.com/howto/howto_css_fixed_menu.asp|
 |HTML Button Thats Acts Like A Link|Add buttons that would load another page of the website|https://www.youtube.com/watch?v=JnGSFHazTkg|
