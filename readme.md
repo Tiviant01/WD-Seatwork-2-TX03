@@ -110,3 +110,5 @@ WD-ProjectName
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 |Bebas Neue|Font|https://fonts.google.com/specimen/Bebas+Neue|
 |How TO - Fixed Menu|Keep the nav bar on the top of the screen even after scrolling|https://www.w3schools.com/howto/howto_css_fixed_menu.asp|
+|HTML Button Thats Acts Like A Link|Add buttons that would load another page of the website|https://www.youtube.com/watch?v=JnGSFHazTkg|
+|How to remove underline from links - HTML CSS|Remove underline on anchorpoints|https://www.youtube.com/watch?v=bc7u7zY0nww|
