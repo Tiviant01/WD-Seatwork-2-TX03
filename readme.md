@@ -111,3 +111,7 @@ WD-ProjectName
 |How TO - Fixed Menu|Keep the nav bar on the top of the screen even after scrolling|https://www.w3schools.com/howto/howto_css_fixed_menu.asp|
 |HTML Button Thats Acts Like A Link|Add buttons that would load another page of the website|https://www.youtube.com/watch?v=JnGSFHazTkg|
 |How to remove underline from links - HTML CSS|Remove underline on anchorpoints|https://www.youtube.com/watch?v=bc7u7zY0nww|
+|Learn Flexbox CSS in 8 minutes|For containers and boxes for texts|https://www.youtube.com/watch?v=phWxA89Dy94&t=19s|
+|Don Bosco School, Manila|Logos|https://en.wikipedia.org/wiki/Don_Bosco_School,_Manila|
+|Mapúa University|Logos|https://en.wikipedia.org/wiki/Mapúa_University|
+|Far Eastern University Institute of Technology|Logos|https://en.wikipedia.org/wiki/Far_Eastern_University_Institute_of_Technology|
